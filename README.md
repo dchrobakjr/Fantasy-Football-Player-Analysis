@@ -11,7 +11,7 @@
   
  
 ## The objective
-Is to create a machine learning model using python that correclty predicts the overall "ftps" of each player when given the variables. In Tabeau I have provided visual demonstration of interestings ideas and facts as well as impacts of individual variables on the final target.  
+To create a machine learning model using python that correclty predicts the overall "ftps" of each player when given the variables. In Tabeau I have provided visual demonstration of interestings ideas and facts as well as impacts of individual variables on the final target.  
 
 ## Methodology and Process
  - 
