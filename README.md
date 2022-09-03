@@ -41,7 +41,7 @@ Develop the optimum regression model to predict target (FPTS):
  - Salary Heavily Impacts the players Fantasy Points Year over Year
  - WIDE RECIEVERS Are the Highest Scorers
  - Yards and Touchdowns mean nothing to the model
- - New has the most Players with Fantasy Points
+ - New Englad has the most Players with Fantasy Points
 
  * Could have Removed Rushing yards.
 
