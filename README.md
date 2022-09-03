@@ -39,8 +39,9 @@ Develop the optimum regression model to predict target (FPTS):
 ## Tableau 
 ### Further Analayze the player data and the impact each variable has on the final target, example (effect of "salary" and "total fpts")
  - Salary Heavily Impacts the players Fantasy Points Year over Year
- - Qb’s Are the Highest Scorers
+ - WIDE RECIEVERS Are the Highest Scorers
  - Yards and Touchdowns mean nothing to the model
+ - New has the most Players with Fantasy Points
 
  * Could have Removed Rushing yards.
 
