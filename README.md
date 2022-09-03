@@ -14,8 +14,8 @@
 To create a machine learning model using python that correclty predicts the overall "ftps" of each player when given the variables. In Tabeau I have provided visual demonstration of interestings ideas and facts as well as impacts of individual variables on the final target.  
 
 ## Methodology and Process
- - The process was to start with an MVP model. I wanted the basic model so that I could apply my tactics individually. I was surprised that the model was overfitting at first producing a model well of 99%. I was quick to remove columns such as salary, and ID. 
- - The columns were mostly evenly distributed so there no tranformations necesary. I did check for zeros and some columns suchs ass passing yards, and receiving yards needed to be dropped with over 95% zeros.
+ - The process was to start with an MVP model. I wanted the basic model so that I could apply my tactics individually. I was surprised that the model was overfitting at first producing a model well over 99%. I was quick to remove columns such as salary, and ID. 
+ - The columns were mostly evenly distributed so there was no tranformations necesary. I did check for zeros and some columns suchs as passing yards, and receiving yards needed to be dropped with over 95% zeros.
  - Once I was done cleaning I began running my other models such as KNN and Random Forest models.
 
 
@@ -28,11 +28,10 @@ Develop the optimum regression model to predict target (FPTS):
 
 #### Conclusion
  - The data was mostly clean. Random Forest using hyperparameter tuning was the best score at 98%. 
- - A
- gain rushing yards could have been Removed
+ - Rushing yards could have been Removed
  - Money Talks
  - A RANKING SYSTEM CAN be developed using salary alone for a fantasy draft
- - I will be testing this season, Wish me Luck!
+ - I will be testing it this season, Wish me Luck!
 
 
  
