@@ -14,7 +14,7 @@
 To create a machine learning model using python that correclty predicts the overall "ftps" of each player when given the variables. In Tabeau I have provided visual demonstration of interestings ideas and facts as well as impacts of individual variables on the final target.  
 
 ## Methodology and Process
- - The process was to start with an MVP model. I wanted the basic model so that I could apply my tactics individually. I was surpsied that the model was overfitting at first producing a model well of 99%. I was quick to remove columns such as salary, and ID. 
+ - The process was to start with an MVP model. I wanted the basic model so that I could apply my tactics individually. I was surprised that the model was overfitting at first producing a model well of 99%. I was quick to remove columns such as salary, and ID. 
  - The columns were mostly evenly distributed so there no tranformations necesary. I did check for zeros and some columns suchs ass passing yards, and receiving yards needed to be dropped with over 95% zeros.
  - Once I was done cleaning I began running my other models such as KNN and Random Forest models.
 
