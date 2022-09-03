@@ -41,8 +41,7 @@ Develop the optimum regression model to predict target (FPTS):
  - WIDE RECIEVERS Are the Highest Scorers
  - Yards and Touchdowns mean nothing to the model
  - New Englad has the most Players with Fantasy Points
-
- * Could have Removed Rushing yards.
+ - Could have Removed Rushing yards.
 
 # Power Point Presentaion
 ###  There is also is a presentation of the data gathered and its real world applictability provided
